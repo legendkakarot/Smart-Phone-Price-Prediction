@@ -1,0 +1,10 @@
+pandas
+numpy
+re
+matplotlib
+seaborn
+plotly
+statsmodels
+sklearn
+xgboost
+warnings
